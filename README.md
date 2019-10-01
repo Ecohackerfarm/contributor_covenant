@@ -3,6 +3,15 @@ Contributor Covenant
 
 The most popular code of conduct for open source projects with over 100,000 adoptions.
 
+Table of Contents
+=================
+   * [Project Home Page](#project-home-page)
+   * [Contributing](#contributing)
+   * [Translating](#translating)
+   * [Adding a Project to the List of Adopters](#adding-a-project-to-the-list-of-adopters)
+   * [Examples of Projects Using the Contributor Covenant](#examples-of-projects-using-the-contributor-covenant)
+   * [License](#license)
+
 ## Project Home Page
 
 For an overview and usage instructions, please visit 
