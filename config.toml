@@ -49,6 +49,10 @@ languageName = "العربية"
 languageCode = "ar"
 writingDirection = "rtl"
 
+[Languages.bg]
+languageName = "български"
+languageCode = "bg"
+
 [Languages.bn]
 languageName = "Bengali"
 languageCode = "bn"
