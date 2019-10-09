@@ -226,12 +226,6 @@ abbr {
   margin-left: 0;
 }
 
-.data-list li {
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
-}
-
 .translations dt { display: none; }
 
 .icon {
