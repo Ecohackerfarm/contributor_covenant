@@ -244,11 +244,11 @@ abbr {
   line-height: 1em;
   margin-right: .125rem;
   padding: .25rem .25rem .25rem .375rem;
-  text-transform: uppercase;
+  text-transform: capitalize;
 }
 
 .icon-md {
-  background: var(--color-green);
+  background: var(--color-primary-lighter);
 }
 
 .icon-txt {
@@ -256,12 +256,12 @@ abbr {
 }
 
 .icon-adoc {
-  background: var(--color-blue);
+  background: var(--color-green);
 }
 
 .icon:hover {
   background-color: var(--color-primary-lighter);
-  color: var(--color-white);
+  color: var(--color-whitesmoke);
 }
 
 .formats {
@@ -270,7 +270,7 @@ abbr {
   letter-spacing: .125rem;
   line-height: .625rem;
   text-align: center;
-  text-transform: uppercase;
+  text-transform: capitalize;
   white-space: nowrap;
 }
 
@@ -338,7 +338,7 @@ header a:hover {
   }
 
   #veil {
-    border-radius: .25rem;
+    border-radius: .20rem;
   }
 
   .data-list {
