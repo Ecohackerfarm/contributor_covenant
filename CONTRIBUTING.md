@@ -27,9 +27,9 @@
 }
 .second-class,
 .third-class {
-	background-color: white;
+	background-color: blue;
 }
 ```
 
 ### Markdown
-- Do not use fancy quotes, dashes, and such; the Markdown processor will handle that.
+- Do not use fancy quotes, dashes, and such; The Markdown processor will handle that.
