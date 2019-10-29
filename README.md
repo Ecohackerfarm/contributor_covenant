@@ -13,7 +13,7 @@ For an overview and usage instructions, please visit
 Please feel free to submit pull requests or open issues to improve the language of this document 
 or to provide additional [translations](https://www.contributor-covenant.org/translations).
 
-You should also check the [issues](https://github.com/ContributorCovenant/contributor_covenant/issues)
+Please check the [issues](https://github.com/ContributorCovenant/contributor_covenant/issues)
 for the latest discussions involving the current and future versions of the Contributor Covenant.
 
 To build the website locally, first [install Hugo](https://gohugo.io/getting-started/installing)
