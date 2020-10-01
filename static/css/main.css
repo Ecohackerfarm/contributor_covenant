@@ -9,8 +9,8 @@
   --color-primary-lighter: hsl(288, 80%, 45%);
   --color-primary-lightest: hsl(288, 80%, 75%);
   --color-green: hsl(153, 90%, 30%);
-  --color-orange: hsl(18, 100%, 50%);
-  --color-red: hsl(333, 100%, 40%);
+  --color-orange: hsla(18, 100%, 50%, 0.979);
+  --color-red: hsl(347, 96%, 39%);
   --color-blue: hsl(198, 90%, 40%);
   --color-black: #000;
   --color-white: #FFF;
@@ -19,7 +19,7 @@
 /* Primary Elements */
 html {
   height: 100%;
-  font-size: .75rem;
+  font-size: 0.76rem;
 }
 
 body {
