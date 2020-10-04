@@ -14,6 +14,7 @@
   --color-blue: hsl(198, 90%, 40%);
   --color-black: #000;
   --color-white: #FFF;
+  --color-blue: hsl(304, 25%, 24%);
 }
 
 /* Primary Elements */
@@ -64,15 +65,21 @@ li {
 
 header {
   color: var(--color-white);
+  position: relative;
+  display: flex;
+  background-color: aqua;
 }
 
 footer {
+  color: var(--color-black);
   font-size: .875rem;
   text-align: center;
   padding: 1.5rem;
+  background-color: aqua;
 }
 
 footer p {
+  color: var(--color-black);
   text-align: center;
 }
 
@@ -106,6 +113,7 @@ th {
 
 /* Headers */
 h1 {
+  color: var(--color-black);
   font-size: 1rem;
   font-weight: 600;
   letter-spacing: .125rem;
